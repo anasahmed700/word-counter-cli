@@ -1,6 +1,6 @@
 {
   "name": "@anasahmed700/word-counter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Word counter CLI",
   "main": "index.js",
   "type": "module",

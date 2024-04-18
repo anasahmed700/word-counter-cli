@@ -1,4 +1,5 @@
-#! /usr/bin/env node
+#!  /usr/bin/env node
+
 import inquirer from 'inquirer';
 
 const answers: { Sentence: string } = await inquirer.prompt([
